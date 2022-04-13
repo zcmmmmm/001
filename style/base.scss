@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'iconfont';  /* Project id 3195392 */
+  src: url('//at.alicdn.com/t/font_3195392_1nsji9sv01b.woff2?t=1646983787443') format('woff2'),
+       url('//at.alicdn.com/t/font_3195392_1nsji9sv01b.woff?t=1646983787443') format('woff'),
+       url('//at.alicdn.com/t/font_3195392_1nsji9sv01b.ttf?t=1646983787443') format('truetype');
+}
+
+html {
+  font-size: 0.26666vw;
+}
+
+body {
+  font-family: iconfont;
+  font-size: 12rem;
+}
+input,
+button {
+  border: none;
+  outline: none;
+}
